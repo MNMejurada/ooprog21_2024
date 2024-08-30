@@ -10,9 +10,9 @@ public class warmup_sleepin {
     
         warmup_sleepin main = new warmup_sleepin();
 
-        System.out.println(main.sleepIn(false,false));
-        System.out.println(main.sleepIn(true,false));
-        System.out.println(main.sleepIn(false,true));
+        System.out.println("False, False : " + main.sleepIn(false,false));
+        System.out.println("True, False : " + main.sleepIn(true,false));
+        System.out.println("False, True : " + main.sleepIn(false,true));
 
 
 
