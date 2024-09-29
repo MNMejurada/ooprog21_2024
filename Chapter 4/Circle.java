@@ -2,7 +2,7 @@
 public class Circle {
     public static double area, radius, diameter;
 
-    public Circle() {
+    Circle() {
         
     }
 
