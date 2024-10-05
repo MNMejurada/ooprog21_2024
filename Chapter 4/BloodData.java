@@ -27,14 +27,14 @@ class BloodData {
 
     
     public void defaultPatient() {
-        this.bloodType = "A";
-        this.rhFactor = "-";
+        bloodType = "A";
+        rhFactor = "-";
     }
 
    
     public void displayBloodInfo() {
-        System.out.println("Blood Type: " + this.bloodType);
-        System.out.println("Rh Factor: "  + this.rhFactor);
+        System.out.println("Blood Type: " + getBloodType());
+        System.out.println("Rh Factor: "  + getRhFactor());
     }
 
 
