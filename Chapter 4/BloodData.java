@@ -7,7 +7,7 @@ class BloodData {
         
     }
 
-   
+    
     public void setBloodType(String bloodType) {
         this.bloodType = bloodType;
     }
@@ -15,6 +15,14 @@ class BloodData {
     
     public void setRhFactor(String rhFactor) {
         this.rhFactor = rhFactor;
+    }
+
+     public String getBloodType() {
+        return bloodType;
+    }
+
+    public String getRhFactor() {
+        return rhFactor;
     }
 
     
