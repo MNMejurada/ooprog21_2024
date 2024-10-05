@@ -3,9 +3,8 @@ class BloodData {
     public String bloodType, rhFactor;
 
     
-    public void BloodData() {
-        this.bloodType = " ";
-        this.rhFactor = " ";
+    BloodData() {
+        
     }
 
    
