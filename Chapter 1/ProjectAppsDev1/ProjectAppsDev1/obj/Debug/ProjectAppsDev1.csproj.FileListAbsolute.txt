@@ -1,0 +1,10 @@
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\ProjectAppsDev1\ProjectAppsDev1\bin\Debug\ProjectAppsDev1.exe.config
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\ProjectAppsDev1\ProjectAppsDev1\bin\Debug\ProjectAppsDev1.exe
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\ProjectAppsDev1\ProjectAppsDev1\bin\Debug\ProjectAppsDev1.pdb
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\ProjectAppsDev1\ProjectAppsDev1\obj\Debug\ProjectAppsDev1.csproj.AssemblyReference.cache
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\ProjectAppsDev1\ProjectAppsDev1\obj\Debug\ProjectAppsDev1.Form1.resources
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\ProjectAppsDev1\ProjectAppsDev1\obj\Debug\ProjectAppsDev1.Properties.Resources.resources
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\ProjectAppsDev1\ProjectAppsDev1\obj\Debug\ProjectAppsDev1.csproj.GenerateResource.cache
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\ProjectAppsDev1\ProjectAppsDev1\obj\Debug\ProjectAppsDev1.csproj.CoreCompileInputs.cache
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\ProjectAppsDev1\ProjectAppsDev1\obj\Debug\ProjectAppsDev1.exe
+C:\Users\Marco Nino\OneDrive\Desktop\CSharp\ProjectAppsDev1\ProjectAppsDev1\obj\Debug\ProjectAppsDev1.pdb
